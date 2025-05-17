@@ -78,3 +78,5 @@ int main(void)
     
     return result == -1 ? EXIT_FAILURE : EXIT_SUCCESS;
 }
+
+// https://www.codewars.com/kata/5672682212c8ecf83e000050
